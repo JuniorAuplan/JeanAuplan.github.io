@@ -1,1 +1,1 @@
-# JeanAuplanPortfolio.github.io
+# JeanAuplan.github.io
